@@ -1,0 +1,39 @@
+# emacs
+*~
+
+# mac
+.DS_Store
+profile
+
+# win
+Thumbs.db
+
+# xcode (see https://github.com/github/gitignore/blob/master/Objective-C.gitignore)
+.DS_Store
+build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+*.xcworkspace
+!default.xcworkspace
+xcuserdata
+profile
+*.moved-aside
+DerivedData
+.idea/
+
+# android (see https://github.com/github/gitignore/blob/master/Android.gitignore)
+*.apk
+*.ap_
+*.dex
+*.class
+bin/
+gen/
+local.properties
+.classpath
+.project
